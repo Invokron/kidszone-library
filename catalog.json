@@ -5,21 +5,87 @@
     {
       "id": "world_explorer",
       "title": "World Explorer",
-      "description": "Spin the globe, visit every continent and country, learn capitals and fun facts, and play \"Find it!\".",
+      "description": "Spin the globe, visit every continent, country, state and big city, learn capitals and fun facts, and play \"Find it!\".",
       "minAge": 4,
-      "version": 1,
+      "version": 2,
       "files": [
         {
           "name": "world.json",
-          "url": "packs/world_explorer/1/world.json",
+          "url": "packs/world_explorer/2/world.json",
           "size": 441311,
           "sha256": "d4d7d0ba0b119b53b457c8cdf662fe147a05b04235576adc9ff8be47f879aa66"
         },
         {
           "name": "facts.json",
-          "url": "packs/world_explorer/1/facts.json",
+          "url": "packs/world_explorer/2/facts.json",
           "size": 29878,
           "sha256": "dd243b8ab941ac74d43187bd41be03f3d2135457036bb379d1de5c642080f25d"
+        },
+        {
+          "name": "regions.bin",
+          "url": "packs/world_explorer/2/regions.bin",
+          "size": 1915737,
+          "sha256": "8e90c9cb71b5596070a0ec41889613b500b16e37e57816f8d8ca8b5bda131693"
+        },
+        {
+          "name": "earth_lo.jpg",
+          "url": "packs/world_explorer/2/earth_lo.jpg",
+          "size": 301863,
+          "sha256": "2036b2cf79b3660a150633748a60ca2be76b8e3673d28531eacb515d4b09a5a4"
+        },
+        {
+          "name": "earth.jpg",
+          "url": "packs/world_explorer/2/earth.jpg",
+          "size": 1036939,
+          "sha256": "52dd353b88d386a151ab2477e91106df0fd462db5442b7ffcae1f3d28ddadca6"
+        },
+        {
+          "name": "earth_00.jpg",
+          "url": "packs/world_explorer/2/earth_00.jpg",
+          "size": 485054,
+          "sha256": "3910afa6552be59632f3bd87db3d3fbb32c4216f5274202337e249de97fc09c1"
+        },
+        {
+          "name": "earth_01.jpg",
+          "url": "packs/world_explorer/2/earth_01.jpg",
+          "size": 196136,
+          "sha256": "eedc0148638ac34da32c7b625339272f82a446a863ae1a75ce5e35cdf67da5d8"
+        },
+        {
+          "name": "earth_10.jpg",
+          "url": "packs/world_explorer/2/earth_10.jpg",
+          "size": 487286,
+          "sha256": "4119c37e4ab2822937a05e6db4a5101818b273e75779b02e40ac4b4c11444b12"
+        },
+        {
+          "name": "earth_11.jpg",
+          "url": "packs/world_explorer/2/earth_11.jpg",
+          "size": 363912,
+          "sha256": "a47eb49c4ab33c22344419e55fa9483f1766929dbcc04ab871bbc408a27a2046"
+        },
+        {
+          "name": "earth_20.jpg",
+          "url": "packs/world_explorer/2/earth_20.jpg",
+          "size": 736494,
+          "sha256": "60a141f1a398fe562542abbc18267e3b5f8df796fcce1b52b4460a64e969a3e0"
+        },
+        {
+          "name": "earth_21.jpg",
+          "url": "packs/world_explorer/2/earth_21.jpg",
+          "size": 329314,
+          "sha256": "15b8a1072354c186a082e81f512a1ca2d057059b631eec5129a28bd5f65773df"
+        },
+        {
+          "name": "earth_30.jpg",
+          "url": "packs/world_explorer/2/earth_30.jpg",
+          "size": 567063,
+          "sha256": "4fa605ea074c24fb4023c662a73f783e512bfb5979d87e4c2755f1c6b1cf2724"
+        },
+        {
+          "name": "earth_31.jpg",
+          "url": "packs/world_explorer/2/earth_31.jpg",
+          "size": 367990,
+          "sha256": "56eb27b1269884ac8bcc7b1a43c80ec9523a46bd4d935540a31f913ffa1e6296"
         }
       ]
     }
