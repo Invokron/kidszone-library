@@ -1,0 +1,27 @@
+{
+  "kidszone_library": 1,
+  "name": "KidsZone Library",
+  "games": [
+    {
+      "id": "world_explorer",
+      "title": "World Explorer",
+      "description": "Spin the globe, visit every continent and country, learn capitals and fun facts, and play \"Find it!\".",
+      "minAge": 4,
+      "version": 1,
+      "files": [
+        {
+          "name": "world.json",
+          "url": "packs/world_explorer/1/world.json",
+          "size": 441311,
+          "sha256": "d4d7d0ba0b119b53b457c8cdf662fe147a05b04235576adc9ff8be47f879aa66"
+        },
+        {
+          "name": "facts.json",
+          "url": "packs/world_explorer/1/facts.json",
+          "size": 29878,
+          "sha256": "dd243b8ab941ac74d43187bd41be03f3d2135457036bb379d1de5c642080f25d"
+        }
+      ]
+    }
+  ]
+}
